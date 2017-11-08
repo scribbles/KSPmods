@@ -1,0 +1,158 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.11.08.04.51.32",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "PartMapper"
+		},
+		{
+			"name": "KerbalImprovedSaveSystem"
+		},
+		{
+			"name": "NavballDockAlignIndCE"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "CriticalTemperatureGauge"
+		},
+		{
+			"name": "TransferWindowPlanner"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "xScience"
+		},
+		{
+			"name": "SmartStage"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "PreciseManeuver"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "FlightPlan"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "WaypointManager"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "ScienceRelay"
+		},
+		{
+			"name": "AutoAsparagus"
+		},
+		{
+			"name": "KspCraftOrganizer"
+		},
+		{
+			"name": "Astrogator"
+		},
+		{
+			"name": "XenonISRU"
+		},
+		{
+			"name": "StockVisualEnhancements"
+		},
+		{
+			"name": "SVE-HighResolution"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "ChattererExtended"
+		},
+		{
+			"name": "KEI"
+		},
+		{
+			"name": "TakeCommandContinued"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "HyperEdit"
+		},
+		{
+			"name": "HaystackContinued"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "UICore"
+		},
+		{
+			"name": "Wwwwwwwww"
+		},
+		{
+			"name": "kOS"
+		},
+		{
+			"name": "kOSforAll"
+		}
+	]
+}
