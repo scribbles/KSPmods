@@ -1,10 +1,10 @@
 {
 	"kind": "metapackage",
-	"abstract": "A list of modules installed on the default KSP instance",
-	"name": "installed-default",
+	"abstract": "A list of modules installed on the portable KSP instance",
+	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2017.11.08.04.51.32",
-	"identifier": "installed-default",
+	"version": "2018.02.28.02.47.34",
+	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
@@ -47,7 +47,7 @@
 			"name": "KerbalEngineerRedux"
 		},
 		{
-			"name": "PreciseManeuver"
+			"name": "RasterPropMonitor-Core"
 		},
 		{
 			"name": "Chatterer"
@@ -56,7 +56,7 @@
 			"name": "ModularFlightIntegrator"
 		},
 		{
-			"name": "FlightPlan"
+			"name": "UICore"
 		},
 		{
 			"name": "DockingPortAlignmentIndicator"
@@ -89,25 +89,25 @@
 			"name": "XenonISRU"
 		},
 		{
-			"name": "StockVisualEnhancements"
-		},
-		{
 			"name": "SVE-HighResolution"
 		},
 		{
-			"name": "Scatterer"
+			"name": "StockVisualEnhancements"
 		},
 		{
-			"name": "Scatterer-sunflare"
+			"name": "ToolbarController"
 		},
 		{
 			"name": "Scatterer-config"
 		},
 		{
+			"name": "Scatterer-sunflare"
+		},
+		{
 			"name": "EnvironmentalVisualEnhancements"
 		},
 		{
-			"name": "RasterPropMonitor-Core"
+			"name": "PreciseManeuver"
 		},
 		{
 			"name": "HullcamVDSContinued"
@@ -119,16 +119,13 @@
 			"name": "KEI"
 		},
 		{
-			"name": "TakeCommandContinued"
+			"name": "Scatterer"
 		},
 		{
 			"name": "Trajectories"
 		},
 		{
 			"name": "EVATransfer"
-		},
-		{
-			"name": "HyperEdit"
 		},
 		{
 			"name": "HaystackContinued"
@@ -143,16 +140,19 @@
 			"name": "PlanetShine"
 		},
 		{
-			"name": "UICore"
+			"name": "FlightPlan"
 		},
 		{
 			"name": "Wwwwwwwww"
 		},
 		{
-			"name": "kOS"
+			"name": "HyperEdit"
 		},
 		{
-			"name": "kOSforAll"
+			"name": "TakeCommandContinued"
+		},
+		{
+			"name": "MechJebForAll"
 		}
 	]
 }
