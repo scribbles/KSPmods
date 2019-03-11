@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2018.02.28.02.47.34",
+	"version": "2019.03.11.02.58.04",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -11,37 +11,73 @@
 			"name": "PartMapper"
 		},
 		{
-			"name": "KerbalImprovedSaveSystem"
+			"name": "KerbalAlarmClock"
 		},
 		{
-			"name": "NavballDockAlignIndCE"
-		},
-		{
-			"name": "BetterBurnTime"
-		},
-		{
-			"name": "CriticalTemperatureGauge"
+			"name": "ModuleManager"
 		},
 		{
 			"name": "TransferWindowPlanner"
 		},
 		{
-			"name": "KerbalAlarmClock"
+			"name": "Trajectories"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "PreciseManeuver"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "MechJebForAll"
 		},
 		{
 			"name": "DistantObject"
 		},
 		{
+			"name": "HaystackReContinued"
+		},
+		{
+			"name": "KEI"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "NavballDockAlignIndCE"
+		},
+		{
+			"name": "Astrogator"
+		},
+		{
+			"name": "UICore"
+		},
+		{
+			"name": "CraftManager"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "WaypointManager"
+		},
+		{
 			"name": "TextureReplacer"
 		},
 		{
-			"name": "xScience"
+			"name": "FlightPlan"
 		},
 		{
-			"name": "SmartStage"
+			"name": "EnvironmentalVisualEnhancements"
 		},
 		{
-			"name": "DistantObject-default"
+			"name": "ModularFlightIntegrator"
 		},
 		{
 			"name": "KerbalEngineerRedux"
@@ -50,109 +86,67 @@
 			"name": "RasterPropMonitor-Core"
 		},
 		{
-			"name": "Chatterer"
-		},
-		{
-			"name": "ModularFlightIntegrator"
-		},
-		{
-			"name": "UICore"
-		},
-		{
 			"name": "DockingPortAlignmentIndicator"
 		},
 		{
-			"name": "ModuleManager"
-		},
-		{
-			"name": "WaypointManager"
-		},
-		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "StageRecovery"
-		},
-		{
-			"name": "ScienceRelay"
-		},
-		{
-			"name": "AutoAsparagus"
-		},
-		{
-			"name": "KspCraftOrganizer"
-		},
-		{
-			"name": "Astrogator"
-		},
-		{
-			"name": "XenonISRU"
+			"name": "CriticalTemperatureGauge"
 		},
 		{
 			"name": "SVE-HighResolution"
 		},
 		{
-			"name": "StockVisualEnhancements"
+			"name": "EVATransfer"
 		},
 		{
-			"name": "ToolbarController"
+			"name": "KerbalImprovedSaveSystem"
 		},
 		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "EnvironmentalVisualEnhancements"
-		},
-		{
-			"name": "PreciseManeuver"
-		},
-		{
-			"name": "HullcamVDSContinued"
+			"name": "AutoAsparagus"
 		},
 		{
 			"name": "ChattererExtended"
 		},
 		{
-			"name": "KEI"
+			"name": "ToolbarController"
 		},
 		{
-			"name": "Scatterer"
-		},
-		{
-			"name": "Trajectories"
-		},
-		{
-			"name": "EVATransfer"
-		},
-		{
-			"name": "HaystackContinued"
-		},
-		{
-			"name": "RasterPropMonitor"
-		},
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
-			"name": "FlightPlan"
+			"name": "ScienceRelay"
 		},
 		{
 			"name": "Wwwwwwwww"
 		},
 		{
+			"name": "StockVisualEnhancements"
+		},
+		{
 			"name": "HyperEdit"
 		},
 		{
-			"name": "TakeCommandContinued"
+			"name": "Chatterer"
 		},
 		{
-			"name": "MechJebForAll"
+			"name": "SmartStage"
+		},
+		{
+			"name": "KerbalXMod"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "xScience"
+		},
+		{
+			"name": "KXAPI"
 		}
 	]
 }
